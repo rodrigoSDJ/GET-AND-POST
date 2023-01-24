@@ -1,0 +1,394 @@
+[
+  {
+    "id": 1,
+    "Name": "Owens",
+    "LastName": "Harris",
+    "Age": 22,
+    "Sex": "male",
+    "Survived": 0
+  },
+  {
+    "id": 2,
+    "Name": "Jhon",
+    "LastName": "Bradley",
+    "Age": 38,
+    "Sex": "female",
+    "Survived": 1
+  },
+  {
+    "id": 3,
+    "Name": "Laina",
+    "LastName": "Heikkinen",
+    "Age": 26,
+    "Sex": "female",
+    "Survived": 1
+  },
+  {
+    "id": 4,
+    "Name": "Henry",
+    "LastName": "Allen",
+    "Age": 35,
+    "Sex": "male",
+    "Survived": 0
+  },
+  {
+    "id": 5,
+    "Name": "James",
+    "LastName": "Mooran",
+    "Age": 34,
+    "Sex": "male",
+    "Survived": 1
+  },
+  {
+    "id": 6,
+    "Name": "Timothy",
+    "LastName": "Mcmarthy",
+    "Age": 54,
+    "Sex": "male",
+    "Survived": 0
+  },
+  {
+    "id": 7,
+    "Name": "Elizabeth",
+    "LastName": "Bonnell",
+    "Age": 58,
+    "Sex": "female",
+    "Survived": 1
+  },
+  {
+    "id": 8,
+    "Name": "William",
+    "LastName": "Henry",
+    "Age": 20,
+    "Sex": "male",
+    "Survived": 1
+  },
+  {
+    "id": 9,
+    "Name": "Johan",
+    "LastName": "Andersson",
+    "Age": 39,
+    "Sex": "male",
+    "Survived": 0
+  },
+  {
+    "id": 10,
+    "Name": "Adolfina",
+    "LastName": "Vestrom",
+    "Age": 14,
+    "Sex": "female",
+    "Survived": 0
+  },
+  {
+    "id": 11,
+    "Name": "Mary",
+    "LastName": "Hewlett",
+    "Age": 55,
+    "Sex": "female",
+    "Survived": 1
+  },
+  {
+    "id": 12,
+    "Name": "Eugene",
+    "LastName": "Rice",
+    "Age": 17,
+    "Sex": "female",
+    "Survived": 0
+  },
+  {
+    "id": 13,
+    "Name": "Fatima",
+    "LastName": "Masselmani",
+    "Age": 20,
+    "Sex": "female",
+    "Survived": 0
+  },
+  {
+    "id": 14,
+    "Name": "Joseph",
+    "LastName": "Fynney",
+    "Age": 21,
+    "Sex": "male",
+    "Survived": 0
+  },
+  {
+    "id": 15,
+    "Name": "Anna",
+    "LastName": "Mcgowan",
+    "Age": 23,
+    "Sex": "female",
+    "Survived": 1
+  },
+  {
+    "id": 16,
+    "Name": "Danira",
+    "LastName": "Palsson",
+    "Age": 25,
+    "Sex": "female",
+    "Survived": 1
+  },
+  {
+    "id": 17,
+    "Name": "Alexander",
+    "LastName": "Fortune",
+    "Age": 28,
+    "Sex": "male",
+    "Survived": 0
+  },
+  {
+    "id": 18,
+    "Name": "Lalio",
+    "LastName": "Todoroff",
+    "Age": 30,
+    "Sex": "male",
+    "Survived": 1
+  },
+  {
+    "id": 19,
+    "Name": "Manuel",
+    "LastName": "Uruchutu",
+    "Age": 31,
+    "Sex": "male",
+    "Survived": 1
+  },
+  {
+    "id": 20,
+    "Name": "Agatha",
+    "LastName": "Glyn",
+    "Age": 33,
+    "Sex": "female",
+    "Survived": 0
+  },
+  {
+    "id": 21,
+    "Name": "Jamila",
+    "LastName": "Nicola",
+    "Age": 40,
+    "Sex": "female",
+    "Survived": 1
+  },
+  {
+    "id": 22,
+    "Name": "Theodor",
+    "LastName": "Kraeff",
+    "Age": 43,
+    "Sex": "male",
+    "Survived": 1
+  },
+  {
+    "id": 23,
+    "Name": "Denis",
+    "LastName": "Lennon",
+    "Age": 45,
+    "Sex": "female",
+    "Survived": 0
+  },
+  {
+    "id": 24,
+    "Name": "Richard",
+    "LastName": "Cater",
+    "Age": 36,
+    "Sex": "male",
+    "Survived": 1
+  },
+  {
+    "id": 25,
+    "Name": "Emily",
+    "LastName": "Rugg",
+    "Age": 57,
+    "Sex": "female",
+    "Survived": 1
+  },
+  {
+    "id": 26,
+    "Name": "Carl",
+    "LastName": "Asplund",
+    "Age": 23,
+    "Sex": "male",
+    "Survived": 1
+  },
+  {
+    "id": 27,
+    "Name": "Carli",
+    "LastName": "Garold",
+    "Age": 35,
+    "Sex": "female",
+    "Survived": 0
+  },
+  {
+    "id": 28,
+    "Name": "MIa",
+    "LastName": "Rhonles",
+    "Age": 25,
+    "Sex": "female",
+    "Survived": 1
+  },
+  {
+    "id": 29,
+    "Name": "jhonson",
+    "LastName": "khalifa",
+    "Age": 51,
+    "Sex": "male",
+    "Survived": 1
+  },
+  {
+    "id": 30,
+    "Name": "Alma",
+    "LastName": "Mark",
+    "Age": 18,
+    "Sex": "female",
+    "Survived": 0
+  },
+  {
+    "id": 31,
+    "Name": "Dennis",
+    "LastName": "lennon",
+    "Age": 25,
+    "Sex": "female",
+    "Survived": 1
+  },
+  {
+    "id": 32,
+    "Name": "Giselle",
+    "LastName": "Charles",
+    "Age": 34,
+    "Sex": "female",
+    "Survived": 1
+  },
+  {
+    "id": 33,
+    "Name": "Elvis",
+    "LastName": "Crease",
+    "Age": 45,
+    "Sex": "male",
+    "Survived": 1
+  },
+  {
+    "id": 34,
+    "Name": "Dani",
+    "LastName": "Daniel",
+    "Age": 18,
+    "Sex": "male",
+    "Survived": 3
+  },
+  {
+    "id": 35,
+    "Name": "Staley",
+    "LastName": "Dans",
+    "Age": 25,
+    "Sex": "female",
+    "Survived": 2
+  },
+  {
+    "id": 36,
+    "Name": "deniss",
+    "LastName": "Dans",
+    "Age": 43,
+    "Sex": "female",
+    "Survived": 0
+  },
+  {
+    "id": 37,
+    "Name": "Carl",
+    "LastName": "Montante",
+    "Age": 31,
+    "Sex": "male",
+    "Survived": 0
+  },
+  {
+    "id": 38,
+    "Name": "Michell",
+    "LastName": "Montiel",
+    "Age": 54,
+    "Sex": "male",
+    "Survived": 0
+  },
+  {
+    "id": 39,
+    "Name": "Jordan",
+    "LastName": "carillo",
+    "Age": 38,
+    "Sex": "male",
+    "Survived": 1
+  },
+  {
+    "id": 40,
+    "Name": "Manuel",
+    "LastName": "Jhon",
+    "Age": 54,
+    "Sex": "male",
+    "Survived": 0
+  },
+  {
+    "id": 41,
+    "Name": "Mica",
+    "LastName": "Anderson",
+    "Age": 23,
+    "Sex": "female",
+    "Survived": 1
+  },
+  {
+    "id": 42,
+    "Name": "Xochitl",
+    "LastName": "Coxon",
+    "Age": 45,
+    "Sex": "female",
+    "Survived": 0
+  },
+  {
+    "id": 43,
+    "Name": "Sinai",
+    "LastName": "Corva",
+    "Age": 51,
+    "Sex": "female",
+    "Survived": 1
+  },
+  {
+    "id": 44,
+    "Name": "Richard",
+    "LastName": "Loque",
+    "Age": 19,
+    "Sex": "male",
+    "Survived": 1
+  },
+  {
+    "id": 45,
+    "Name": "Leonel",
+    "LastName": "Ronald",
+    "Age": 25,
+    "Sex": "male",
+    "Survived": 1
+  },
+  {
+    "id": 46,
+    "Name": "Armando",
+    "LastName": "Carl",
+    "Age": 21,
+    "Sex": "male",
+    "Survived": 0
+  },
+  {
+    "id": 47,
+    "Name": "Ingrid",
+    "LastName": "March",
+    "Age": 34,
+    "Sex": "female",
+    "Survived": 1
+  },
+  {
+    "id": 48,
+    "Name": "Oscar",
+    "LastName": "Mau",
+    "Age": 39,
+    "Sex": "male",
+    "Survived": 1
+  },
+  {
+    "id": 49,
+    "Name": "Jhonson",
+    "LastName": "Quick",
+    "Age": 27,
+    "Sex": "male",
+    "Survived": 0
+  }
+]
